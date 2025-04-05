@@ -54,15 +54,15 @@ By the end of this course, students are expected to:
 
 ## 🧩 Repository Structure
 
-/src
-┣ /recursion           → Overview of basic recursive algorithms
-┣ /greedy              → Greedy algorithms and heuristics
-┣ /divide_conquer      → Divide and conquer techniques
-┣ /dynamic_programming → DP problems and optimizations
-┣ /backtracking         → Recursive search with constraint modeling
-┣ /branch_and_bound     → Optimized solution space exploration
-┣ /genetic_algorithms   → Evolutionary computation models
-┗ /theorem_master       → Complexity analysis and recurrence cases
+- /src
+- ┣ /recursion           → Overview of basic recursive algorithms
+- ┣ /greedy              → Greedy algorithms and heuristics
+- ┣ /divide_conquer      → Divide and conquer techniques
+- ┣ /dynamic_programming → DP problems and optimizations
+- ┣ /backtracking         → Recursive search with constraint modeling
+- ┣ /branch_and_bound     → Optimized solution space exploration
+- ┣ /genetic_algorithms   → Evolutionary computation models
+- ┗ /theorem_master       → Complexity analysis and recurrence cases
 
 Each directory includes:
 - 🔗 Java source files with detailed comments
